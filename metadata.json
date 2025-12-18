@@ -1,0 +1,5 @@
+{
+  "name": "VTT to SRT Converter",
+  "description": "A high-performance tool to batch convert WebVTT (.vtt) subtitle files to SubRip (.srt) format directly in your browser. Supports bulk drag-and-drop and ZIP download.",
+  "requestFramePermissions": []
+}
